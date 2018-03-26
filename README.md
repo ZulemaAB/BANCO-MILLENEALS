@@ -9,6 +9,8 @@ Unidad: Segundo  Proyecto UX.
 
 El Banco del País es uno de los bancos más importante de tu país. Es una institución de muchos años y actualmente está pasando por un proceso de transformación digital. Como parte de este proceso, han implementado un área de innovación que quiere llegar de una mejor manera a los usuarios más jóvenes. Por lo que, inspirados en Nequi, Nubank y Simple se han propuesto crear un banco 100% digital dirigido para millenials.
 
+![Kimoni](assets/images/kimoni.png)  
+
 
 # ***DESARROLLO DEL PROYECTO***
 
@@ -69,7 +71,7 @@ El Banco del País es uno de los bancos más importante de tu país. Es una inst
 #### Reaserch a traves de internet:
 Para empezar con el proyecto que nos encomendó el Banco del Pais, lo primero que tuvimos hacer fue una investigación a traves de nuestro gran aliado Google, con el fin de tener un contexto mas claro de transformacion digital, innovacion y millenials.
 
-Para comprender el término “Transformación digital” debemos responder a la pregunta ¿Cómo usar la tecnologías para innovar en los negocios? ¿Cómo usar la tecnología para transformar los negocios? 
+Para comprender el término “Transformación digital” debemos responder a la pregunta ¿Cómo usar la tecnologías para innovar en los negocios? ¿Cómo usar la tecnología para transformar los negocios?
 Hay quienes están confundiendo la Transformación Digital con invertir en nuevas tecnologías para una mejora radical en el rendimiento de las empresas, pero resaltar que la tecnología por sí sola no es transformación digital.
 
 Entonces, ¿Que es transformacion digital?
@@ -160,7 +162,7 @@ Por ello ya iniciaron transformación digital creando equipos ágiles, Laborator
 
 
 ####**Resumen de feedback de los entrevistados:**
-  
+
   - *No tengo una cuenta en el banco.*
   - *Me gustaria manejar todas mis cuentas desde una sola aplicacion*   
   - *Ahorro en mi chanchito.*   
@@ -245,7 +247,7 @@ El Paper Prototyping lo pudimos testear con 2 millenials, los cuales nos dijeron
 
 - **Prototipo Interactivo en FIgma y Marvel**
 
-https://marvelapp.com/project/2596116/ 
+https://marvelapp.com/project/2596116/
 
 
 #### Día 6:
