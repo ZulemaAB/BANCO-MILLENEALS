@@ -6,10 +6,6 @@ Kimoni es una plataforma alternativa del sistema financiero enfocado en brindar 
 
 ## Desarrollado para [Laboratoria](http://www.laboratoria.la/)
 
-## Elaborado por:
-
-* Zulema Asto
-
 
 ## RETO:CREAR UN BANCO 100% DIGITAL DIRIGIDO PARA MILLENIALS.
 
