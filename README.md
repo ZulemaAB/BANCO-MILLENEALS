@@ -18,7 +18,7 @@ El Banco del País es uno de los bancos más importante de tu país. Es una inst
 ![Kimoni](assets/images/kimoni.png)  
 
 
-# ***DESARROLLO DEL PROYECTO***
+## ***DESARROLLO DEL PROYECTO***
 
 ### Día 1
 
