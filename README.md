@@ -68,7 +68,7 @@ El Banco del País es uno de los bancos más importante de tu país. Es una inst
      - Testeo del la ultima versión del prototype.
      - Presentación final del prototype.
 
-###Desarrollo- Dia 1:
+### Desarrollo- Dia 1:
 
 #### Reaserch a traves de internet:
 Para empezar con el proyecto que nos encomendó el Banco del Pais, lo primero que tuvimos hacer fue una investigación a traves de nuestro gran aliado Google, con el fin de tener un contexto mas claro de transformacion digital, innovacion y millenials.
