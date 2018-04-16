@@ -1,6 +1,6 @@
 # Banco Millenial: KIMONI
 
-Kimoni es una plataforma alternativa del sistema financiero, enfocado en brindar los beneficios de un banco tradicional y educación financiera.
+Kimoni es una plataforma alternativa del sistema financiero, enfocado en brindar los beneficios de un banco tradicional a una nueva generación los  Millenials, una alternativa fresca y sencilla que permitirá realizar transacciones desde tu celular y disponer de todas tus cuentas de banco, obteniendo Kimonipoints.
 
 ![Con titulo](https://raw.githubusercontent.com/ZulemaAB/KIMONI/master/assets/images/kimoni.png)
 
