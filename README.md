@@ -58,25 +58,25 @@ El Banco del País es uno de los bancos más importante de tu país. Es una inst
 
 #### Día 5:
 - **Testeo**
-     - Hacer un content prototype.  
+     - Hacer un Content prototype.  
      - Testearlo en pareja con compañeras de otro squad.
      - Testeo del prototype a diferentes personas enfocandonos en los Milleneals.
 
 
 #### Día 6:
-- **Exposicion final**
+- **Exposición final**
      - Testeo del la ultima versión del prototype.
      - Presentación final del prototype.
 
 ### Desarrollo- Dia 1:
 
 #### Reaserch a traves de internet:
-Para empezar con el proyecto que nos encomendó el Banco del Pais, lo primero que tuvimos hacer fue una investigación a traves de nuestro gran aliado Google, con el fin de tener un contexto mas claro de transformacion digital, innovacion y millenials.
+Para empezar con el proyecto que nos encomendó el Banco del Pais, lo primero que tuvimos hacer fue una investigación a traves de nuestro gran aliado Google, con el fin de tener un contexto más claro de transformacion digital, innovación y millenials.
 
 Para comprender el término “Transformación digital” debemos responder a la pregunta ¿Cómo usar la tecnologías para innovar en los negocios? ¿Cómo usar la tecnología para transformar los negocios?
 Hay quienes están confundiendo la Transformación Digital con invertir en nuevas tecnologías para una mejora radical en el rendimiento de las empresas, pero resaltar que la tecnología por sí sola no es transformación digital.
 
-Entonces, ¿Que es transformacion digital?
+Entonces, ¿Qué es transformación digital?
 Transformación digital es el siguiente nivel en la evolución de los negocios, frente a una sociedad que se transforma a ritmos cada vez más acelerados, en donde la revolución digital ha cambiado y cambiará más la forma en cómo vivimos, trabajamos, y nos relacionamos con otras personas, es rol fundamental de las empresas transformarse para crear experiencias de mayor valor nunca antes vistas, transformando previamente y de forma integral la mentalidad, los procesos y las tecnologías tradicionales de las organizaciones para adaptarse a la economía digital que cada vez evoluciona a mayor velocidad.
 
 Para ello, debemos tener en cuenta los siguientes requerimientos si queremos ser transformar digitalmente una empresa:
@@ -107,7 +107,7 @@ Los Bancos peruanos se han centrado en la experiencia del cliente y su foco hoy 
 
 Por ello ya iniciaron transformación digital creando equipos ágiles, Laboratorios de innovación y/o centros de innovación que serían como la semilla con el que buscan impactar en el sector.
 
-###### Laboratorios de innovacion:
+###### Laboratorios de innovación:
  - *BCP:* Centro de InnovacXión – Digitalmente
  - *BBVA Continental :* Con apoyo de su BBVA Innovation Center en España, quienes además tienen en la casa matriz un presupuesto de $250 Millones de dólares para invertir/comprar fintech y adquirir las mejores prácticas que puedan incorporarse a su adn corporativo. Además de haber desarrollado equipos ágiles.
  - *Interbank:* LaBentana, La Victoria Lab realizan el trabajo, aunque no han creado un centro de innovación, ellos están ahora enfocados no solo en la transformación digital, sino en la creación de Fintech.
@@ -115,7 +115,7 @@ Por ello ya iniciaron transformación digital creando equipos ágiles, Laborator
 
 ###### En otros paises:
 
-- *Nequi:* Lo que mas nos gusto de la app de Nequi es que era muy distinta a las aplicaciones de los bancos antes mencionados, es una plataforma agil, amigable y facil de usar. Es por ello que tomamos de inspiracion y quisimos replicar el factor de usar el numero de celular como numero de cuenta.
+- *Nequi:* Lo que más nos gusto de la app de Nequi es que era muy distinta a las aplicaciones de los bancos antes mencionados, es una plataforma ágil, amigable y fácil de usar. Es por ello que tomamos de inspiración y quisimos replicar el factor de usar el número de celular como número de cuenta.
 
 
 ### Día 2
@@ -166,7 +166,7 @@ Por ello ya iniciaron transformación digital creando equipos ágiles, Laborator
 ####**Resumen de feedback de los entrevistados:**
 
   - *No tengo una cuenta en el banco.*
-  - *Me gustaria manejar todas mis cuentas desde una sola aplicacion*   
+  - *Me gustaria manejar todas mis cuentas desde una sola aplicación*   
   - *Ahorro en mi chanchito.*   
   - *No tengo mucha información de los servicios que ofrece un banco.*  
   - *Me gustaria que me ayude a controlarme en no gastar en cosas que no necesito .*
