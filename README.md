@@ -249,7 +249,7 @@ El Paper Prototyping lo pudimos testear con 2 millenials, los cuales nos dijeron
 
 - **Prototipo Interactivo en FIgma y Marvel**
 
-https://marvelapp.com/project/2596116/
+https://github.com/ZulemaAB/KIMONI
 
 
 #### Día 6:
